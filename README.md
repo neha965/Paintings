@@ -1,7 +1,5 @@
-# Paintings
-Data Analysis for Paintings present in museums using SQL to analyze online famous paintings data.
-
-This project will help the store understand its business growth by analyzing the music playlist database.
+# Paintings Data Analysis
+Welcome to the Paintings Data Analysis project! This repository contains SQL scripts and queries for analyzing data about paintings present in various museums. The goal of this project is to provide insights into the distribution and popularity of paintings across different museums.
 
 # Database and Tools
 SQL Server
